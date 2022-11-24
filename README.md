@@ -7,5 +7,7 @@ Users can freely set their own public data for other applications, such as avata
  * setting
  * data
  * Personal page
- * Social list
+ * Social list (auth must)
+ * erc20 token reward
+ * star
  
